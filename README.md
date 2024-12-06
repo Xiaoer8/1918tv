@@ -14,22 +14,21 @@
 ```
 
 
-<b>Forum:</b> https://drmstuff.com</br>
-<b>Telegram Group:</b> https://t.me/drmstuff
+<b>Forum:</b> https://1ptvsuper898.asia</br>
 
 
 ```
-     /\*\       Apocalypse@404
-    /\O\*\      ━━━━━━━━━━━━
+     /\*\       Apocal@404
+    /\1\*\      ━━━━━━━━━━━━
    /*/\/\/\     ▪ os      Linux Mint 21.2 Victoria
-  /\O\/\*\/\    ▪ kernel  5.15.0-87-generic
- /\*\/\*\/\/\   ▪ shell   zsh
- |O\/\/*/\/O|   ▪ uptime  838h 12m
+  /\9\/\*\/\    ▪ kernel  5.15.0-87-generic
+ /\*\/\*\/\/\   ▪ shell   sh
+ |1\/\/*/\/8|   ▪ uptime  838h 12m
       ||        ▪ memory  19599m / 31951m
       ||        
 
 ```
 
-> git clone https://github.com/DRMStuff/o11-OTT-v2.2b1</br>
-> chmod +x o11_v22b1-DRMStuff</br>
-> ./o11</br>
+> git clone https://github.com/Xiaoer8/1918tv/o11-OTT-v2.2b1</br>
+> chmod +x o11_v22b1-ipv</br>
+> ./1918tv</br>
