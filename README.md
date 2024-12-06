@@ -29,6 +29,6 @@
 
 ```
 
-> git clone https://github.com/Xiaoer8/1918tv/o11-OTT-v2.2b1</br>
+> git clone https://github.com/Xiaoer8/1918tv/blob/main/1918tv_v22b1-ipv</br>
 > chmod +x o11_v22b1-ipv</br>
 > ./1918tv</br>
