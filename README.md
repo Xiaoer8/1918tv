@@ -30,5 +30,5 @@
 ```
 
 > git clone https://github.com/Xiaoer8/1918tv/blob/main/1918tv_v22b1-ipv</br>
-> chmod +x o11_v22b1-ipv</br>
+> chmod +x 1918tv_v22b1-ipv</br>
 > ./1918tv</br>
